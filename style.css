@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#card {
+    height: 520px;
+    width: 400px;
+    background-color: aqua;
+    border-radius: 25px;
+    padding: 40px;
+    margin: 20px;
+}
+
+h3 {
+    color: beige;
+}
+
+
+ img {
+width: 150px;
+height: 150px;
+    border-radius: 50%;
+    object-fit: cover;  
+}
